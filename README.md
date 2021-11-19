@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
+Rocket.Q é plataforma de perguntas em salas privadas com senha para entrar, o admin da sala respectiva pode marcar as perguntas como lida ou apaga-lás. Rocket.Q pode ser usada por streamers ou palestrantes em eventos para liberar salas para o público fazer perguntas.
 
 ## Como utilizar?
 
