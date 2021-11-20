@@ -2,6 +2,8 @@
   <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
 </h1>
 
+oioi
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
